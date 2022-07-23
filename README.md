@@ -1,15 +1,10 @@
 ## fixtup-sqlalchemy
 
+**This package is under construction and should not be used in any product**
+
 [![ci](https://github.com/FabienArcellier/fixtup-sqlalchemy/actions/workflows/main.yml/badge.svg)](https://github.com/FabienArcellier//fixtup-sqlalchemy/actions/workflows/main.yml)
 
-
-blueprint to implement a simple spike with python3
-
-* test python code
-* use jupyter notebook with python dependencies
-* ...
-
-The implementation is compatible with python 3
+[Soon]
 
 ## Getting started
 
@@ -20,7 +15,7 @@ The implementation is compatible with python 3
 You can find the latest version to ...
 
 ```bash
-git clone https://github.com/FabienArcellier/blueprint-python3.git
+git clone https://github.com/FabienArcellier/fixtup-sqlalchemy.git
 ```
 
 ## Usage
