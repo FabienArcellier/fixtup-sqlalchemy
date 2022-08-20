@@ -8,7 +8,30 @@
 
 ## Getting started
 
-[Soon]
+Install plugin in python environment
+
+```
+pip install fixtup-sqlalchemy
+```
+
+Activate the plugin in the fixtup configuration
+
+*pyproject.toml*
+```
+[tools.fixtup]
+fixtures = "fixtures"
+plugins = [
+    "fixtup_sqlalchemy.plugin"
+]
+```
+
+*setup.cfg*
+```
+[fixtup]
+fixtures = tests/fixtures/fixtup
+plugins=
+    fixtup_sqlalchemy.plugin
+```
 
 ## The latest version
 
